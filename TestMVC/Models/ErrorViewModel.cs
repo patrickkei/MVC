@@ -1,5 +1,5 @@
 using System;
-
+using System.Data;
 namespace TestMVC.Models
 {
     public class ErrorViewModel

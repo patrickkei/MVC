@@ -25,7 +25,7 @@ namespace TestMVC.Controllers
         public IActionResult Contact()
         {
             ViewData["Message"] = "Your contact page.";
-            金
+            //005
             return View();
         }
 
