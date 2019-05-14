@@ -26,6 +26,8 @@ namespace TestMVC.Controllers
         {
             ViewData["Message"] = "Your contact page.";
             //0052
+            //master
+            //master01
             return View();
         }
 
