@@ -17,8 +17,8 @@ namespace TestMVC.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "aa釜bbbYour application description page.";
-            //006
+            ViewData["Message"] = "Master";
+            //Master
 
             return View();
         }
@@ -26,8 +26,8 @@ namespace TestMVC.Controllers
         public IActionResult Contact()
         {
             ViewData["Message"] = "Your contact page.";
-            //Master02
-            //ddd
+            //Master
+
             return View();
         }
 
