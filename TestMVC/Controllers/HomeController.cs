@@ -18,6 +18,7 @@ namespace TestMVC.Controllers
         public IActionResult About()
         {
             ViewData["Message"] = "aa釜bbbYour application description page.";
+            //006
 
             return View();
         }
