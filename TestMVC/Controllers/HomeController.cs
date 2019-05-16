@@ -19,7 +19,8 @@ namespace TestMVC.Controllers
         {
             ViewData["Message"] = "Master";
             //Master
-
+            //007
+            //test
             return View();
         }
 
@@ -27,7 +28,8 @@ namespace TestMVC.Controllers
         {
             ViewData["Message"] = "Your contact page.";
             //Master
-
+            //007
+            //test
             return View();
         }
 
