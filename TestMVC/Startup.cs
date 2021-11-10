@@ -10,8 +10,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 //Master
-//002
-//001
+//0011
 namespace TestMVC
 {
     public class Startup
